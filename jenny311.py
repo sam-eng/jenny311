@@ -6,7 +6,7 @@ import watson_developer_cloud
 service = watson_developer_cloud.AssistantV2(
 	version = '2018-09-20',
     username= 'apikey',
-    password = 'YJAyWoULGFIBhtxMlsOm_RI3V5EL5PoQ32LGMRdEIr4x'
+    password = '[insert api key here]' #replace with API Key
 )
 
 assistant_id = '4cde2101-84d4-460b-bbb1-bac49e5ce061' # replace with assistant ID
